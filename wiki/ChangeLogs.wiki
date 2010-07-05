@@ -1,26 +1,15 @@
-= Introduction =
+= Change Logs for Konachan's Library =
+<br />
+<br />
+*0.0.0.5*
+<br />
+*Changed:*
+<br />
+*Changed* Download Box as been changed to enable you to select a topic name if you seached with more then one tag. Changed the way you search you can now search too topic/tags like so Topic Name One, Topic Name Two just using the , (, with space) to split the topics/tags and you no longer have to add _ in to your tag search the program dose this for you.
 
-Change Logs for Konachan's Library
+*Changed* The preview status dialog box's seems to slow down the action of getting the preview files so it was changed to show it in the status bar at the bottem of the Library page.
 
-
-= Details =
-
-0.0.0.5
-Changed:
-Changed Download Box as been changed to enable 
-you to select a topic name if you seached with 
-more then one tag.
-Changed the way you search you can now search
-too topic/tags like so Topic Name One, Topic Name Two
-just using the , (, with space) to split the topics/
-tags and you no longer have to add _ in to your tag
-search the program dose this for you.
-Changed Preview Status Dialog Box's they seems to 
-slow down the action of getting the preview files
-so it was changed to show it in the status bar at the
-bottem.
-
-Added:
+*Added:*
 ModalBox fucntion added, programed by Nathaniel Blackburn
 this fucntion is a old one and is really bugy with the 
 program but we will have this fix in a later releace.
