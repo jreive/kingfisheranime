@@ -1,0 +1,52 @@
+= Introduction =
+
+Change Logs for Konachan's Library
+
+
+= Details =
+
+0.0.0.5
+Changed:
+Changed Download Box as been changed to enable 
+you to select a topic name if you seached with 
+more then one tag.
+Changed the way you search you can now search
+too topic/tags like so Topic Name One, Topic Name Two
+just using the , (, with space) to split the topics/
+tags and you no longer have to add _ in to your tag
+search the program dose this for you.
+Changed Preview Status Dialog Box's they seems to 
+slow down the action of getting the preview files
+so it was changed to show it in the status bar at the
+bottem.
+
+Added:
+ModalBox fucntion added, programed by Nathaniel Blackburn
+this fucntion is a old one and is really bugy with the 
+program but we will have this fix in a later releace.
+
+0.0.0.4
+Added:
+Added Create My Konachan folder for the program
+to be able to work without the end user making it.
+
+0.0.0.3 r2
+Bugs:
+Fixed Dialog not showing anytihng but update.
+Fixed Double Download on via preview window.
+
+r2 Fix:
+Change Log Updated.
+
+Changed:
+Tags as name as changed to search tag
+Konachan's Library Page Updated.
+
+0.0.0.2 Change Log
+Bugs:
+Fixed Buttons text.
+Fixed Settings and About box titles.
+Fixed Downloaded text.
+Fixed Settings for questionable.
+
+0.0.0.1 Main first build.
