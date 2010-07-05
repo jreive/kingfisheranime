@@ -1,6 +1,4 @@
 = Change Logs for Konachan's Library =
-<br />
-<br />
 *0.0.0.5*
 <br />
 *Changed:*
