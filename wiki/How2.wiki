@@ -1,0 +1,14 @@
+= Introduction =
+
+This section will explain how to use Konachan's Library
+<br />
+<br />
+<br />
+= Running =
+
+Well the first thing to get running is downloading the program from the [http://code.google.com/p/kingfisheranime/downloads/list download] page
+or from the SVN, the SVN will have update that some beta version wont as the SVN is updated with every build where the Beta is ever build we feel safe to release.
+<br />
+<br />
+Once you downloaded the program go to where you have downloaded it, then double click it
+you will be welcomed by Konachan's Library Opening window.
