@@ -12,6 +12,6 @@ the Konachan's Library.
 <br />
 <br />
 <br />
-= Profiles/Site on =
+= Profiles/Site =
 
 Konachan.com ([http://konachan.com/user/show/27747 kingfisheranime])
