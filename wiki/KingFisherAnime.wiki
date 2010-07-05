@@ -15,4 +15,5 @@ the Konachan's Library.
 = Profiles/Site =
 
 Konachan.com ([http://konachan.com/user/show/27747 kingfisheranime])
+<br />
 Google ([http://www.google.com/profiles/KingFisherAnime KingFisherAnime])
