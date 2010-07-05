@@ -12,3 +12,7 @@ or from the SVN, the SVN will have update that some beta version wont as the SVN
 <br />
 Once you downloaded the program go to where you have downloaded it, then double click it
 you will be welcomed by Konachan's Library Opening window.
+
+== Konachan's Library ==
+This button takes you to the part of the program where you can search via your tags for images just like you can on there website with one difference you don't have to include _ in all your searchs so if you was looking for Lucky_Star Scan rate:s on the website it would be
+Lucky Stay, Scan and the safe option from the drop down on the program
