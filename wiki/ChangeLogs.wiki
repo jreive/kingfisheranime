@@ -8,32 +8,49 @@
 *Changed* The preview status dialog box's seems to slow down the action of getting the preview files so it was changed to show it in the status bar at the bottem of the Library page.
 
 *Added:*
+<br />
 ModalBox fucntion added, programed by Nathaniel Blackburn
 this fucntion is a old one and is really bugy with the 
 program but we will have this fix in a later releace.
 
 0.0.0.4
+<br />
 Added:
+<br />
 Added Create My Konachan folder for the program
 to be able to work without the end user making it.
 
 0.0.0.3 r2
+<br />
 Bugs:
+<br />
 Fixed Dialog not showing anytihng but update.
+<br />
 Fixed Double Download on via preview window.
-
+<br />
+<br />
 r2 Fix:
+<br />
 Change Log Updated.
-
+<br />
+<br />
 Changed:
-Tags as name as changed to search tag
-Konachan's Library Page Updated.
+<br />
+Tags as name as changed to search tag Konachan's Library Page Updated.
 
 0.0.0.2 Change Log
+<br />
 Bugs:
+<br />
 Fixed Buttons text.
+<br />
 Fixed Settings and About box titles.
+<br />
 Fixed Downloaded text.
+<br />
 Fixed Settings for questionable.
-
-0.0.0.1 Main first build.
+<br />
+<br />
+0.0.0.1
+<br /> 
+Main first build.
