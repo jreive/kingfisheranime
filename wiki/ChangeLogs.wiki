@@ -3,7 +3,7 @@
 <br />
 *Change:*
 *Changed* My Library Thumble Viewer was offering too much lag this problem might be looking in to in the future. So we have removed it and changed it to another system called ListIcon details can be found below more on this system.
-([http://forum.luadevils.com/index.php?topic=5.0 ListIcon's] is by RizlaUK found at [http://luadevils.com luadevils.com)
+([http://forum.luadevils.com/index.php?topic=5.0 ListIcon's] is by RizlaUK found at [http://luadevils.com luadevils.com])
 <br />
 
 *Changed* all StatusDlg's to status progress at the bottom of the page or the download dialog.
