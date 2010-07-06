@@ -16,6 +16,8 @@ you will be welcomed by Konachan's Library Opening window.
 == Konachan's Library ==
 [http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png]
 <br />
+The first button
+<br />
 <br />
 <br />
 This button takes you to the part of the program where you can search via your tags for images just like you can on there website with one difference you don't have to include `_` in all your searchs so if you was looking for Lucky`_`Star Scan rate:s on the website it would be
@@ -26,3 +28,11 @@ Lucky Stay, Scan and the safe option from the drop down on the program
 <br />
 <br />
 <hr />
+== My Library == 
+[http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png]
+<br />
+The second button
+<br />
+<br />
+<br />
+Since there as been a big change from 0.0.0.5 to 0.0.0.6 this section will be updated in the next version we hope please keep a eye open.
