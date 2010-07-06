@@ -2,7 +2,7 @@
 *0.0.0.6*
 <br />
 *Change:*
-*Changed* My Library Thumble Viewer to a simple Listing as the Viewer was offering too much lag this problem might be looking in to in the future. Changed all StatusDlg\'s to status progress at the bottom of the page or the download dialog.
+*Changed* My Library Thumble Viewer to a simple Listing as the Viewer was offering too much lag this problem might be looking in to in the future. Changed all StatusDlg's to status progress at the bottom of the page or the download dialog.
 ([http://forum.luadevils.com/index.php?topic=5.0 ListIcon's] is by RizlaUK found at [http://luadevils.com luadevils.com)
 
 *Changed* the screen size from 600 by 400 to 700 by 500 to offer that little better space but not strealing all of the screen.
