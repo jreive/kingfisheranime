@@ -57,11 +57,8 @@ Tags as name as changed to search tag Konachan's Library Page Updated.
 <br />
 *Bugs:*
 *Fixed* Buttons text.
-
 *Fixed* Settings and About box titles.
-
 *Fixed* Downloaded text.
-
 *Fixed* Settings for questionable.
 <br />
 <br />
