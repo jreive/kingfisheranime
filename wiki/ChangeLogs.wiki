@@ -39,19 +39,17 @@ to be able to work without the end user making it.
 <br />
 Bugs:
 <br />
-Fixed Dialog not showing anytihng but update.
+*Fixed* Dialog not showing anytihng but update.
 <br />
-Fixed Double Download on via preview window.
-<br />
-<br />
-r2 Fix:
-<br />
-Change Log Updated.
+*Fixed* Double Download on via preview window.
 <br />
 <br />
-Changed:
+*r2* 
+*Fix:*
 <br />
-Tags as name as changed to search tag Konachan's Library Page Updated.
+*Changed* Change Log Updated.
+<br />
+*Changed* Tags as name,changed to search tags Konachan's Library Page Updated.
 
 *0.0.0.2*
 <br />
