@@ -25,7 +25,7 @@
 
 *Added:*
 <br />
-ModalBox fucntion added, programed by Nathaniel Blackburn
+*Added* ModalBox fucntion added, programed by Nathaniel Blackburn
 this fucntion is a old one and is really bugy with the 
 program but we will have this fix in a later releace.
 
