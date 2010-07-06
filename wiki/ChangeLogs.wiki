@@ -1,5 +1,5 @@
 = Change Logs for Konachan's Library =
-*0.0.0.6*
+==0.0.0.6==
 <br />
 *Change:*
 *Changed* My Library Thumble Viewer to a simple Listing as the Viewer was offering too much lag this problem might be looking in to in the future. Changed all StatusDlg's to status progress at the bottom of the page or the download dialog.
@@ -12,10 +12,8 @@
 *Added* file details on My Library.
 <br />
 *Added* Kingfisheranime dialog/links.
-
-
-
-*0.0.0.5*
+<hr />
+==0.0.0.5==
 <br />
 *Changed:*
 <br />
@@ -28,15 +26,15 @@
 *Added* ModalBox fucntion added, programed by Nathaniel Blackburn
 this fucntion is a old one and is really bugy with the 
 program but we will have this fix in a later releace.
-
-*0.0.0.4*
+<hr />
+==0.0.0.4==
 <br />
 *Added:*
 <br />
 *Added* Create My Konachan folder for the program
 to be able to work without the end user making it.
-
-*0.0.0.3 r2*
+<hr />
+==0.0.0.3==
 <br />
 *Bugs:*
 <br />
@@ -52,8 +50,8 @@ to be able to work without the end user making it.
 *Changed* Change Log Updated.
 <br />
 *Changed* Tags as name,changed to search tags Konachan's Library Page Updated.
-
-*0.0.0.2*
+<hr />
+==0.0.0.2==
 <br />
 *Bugs:*
 *Fixed* Buttons text.
@@ -66,6 +64,6 @@ to be able to work without the end user making it.
 <br />
 <br />
 <br />
-*0.0.0.1*
+==0.0.0.1==
 <br /> 
 Main first build.
