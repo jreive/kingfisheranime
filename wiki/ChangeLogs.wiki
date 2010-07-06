@@ -53,19 +53,15 @@ Changed:
 <br />
 Tags as name as changed to search tag Konachan's Library Page Updated.
 
-0.0.0.2 Change Log
+*0.0.0.2*
 <br />
-Bugs:
-<br />
-Fixed Buttons text.
-<br />
-Fixed Settings and About box titles.
-<br />
-Fixed Downloaded text.
-<br />
-Fixed Settings for questionable.
+*Bugs:*
+*Fixed* Buttons text.
+*Fixed* Settings and About box titles.
+*Fixed* Downloaded text.
+*Fixed* Settings for questionable.
 <br />
 <br />
-0.0.0.1
+*0.0.0.1*
 <br /> 
 Main first build.
