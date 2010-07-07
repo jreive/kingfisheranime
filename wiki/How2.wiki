@@ -35,7 +35,7 @@ The second button
 <br />
 <br />
 <br />
-Since there as been a big change from [http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.5 0.0.0.5] to [http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.6 0.0.0.6] this section will be updated in the next version we hope please keep a eye open.
+Since there as been a big change from [http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.5 0.0.0.5] to [http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.7 0.0.0.7] this section will be updated in the next version we hope please keep a eye open.
 <hr />
 = Enabling Twitter =
 [http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png]
