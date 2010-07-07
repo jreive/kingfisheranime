@@ -1,4 +1,15 @@
 = Change Logs for Konachan's Library =
+==0.0.0.7==
+<br />
+*Added:*
+<br />
+*Added *Twitter Support to post the image you like to twitter with a short url so others can download the same image.
+
+<br />
+*Bug*
+<br />
+*Fixed* XML fault from one dev to the other incomparable version names fixed.
+<hr />
 ==0.0.0.6==
 <br />
 *Change:*
