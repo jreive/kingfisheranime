@@ -36,3 +36,17 @@ The second button
 <br />
 <br />
 Since there as been a big change from [http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.5 0.0.0.5] to [http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.6 0.0.0.6] this section will be updated in the next version we hope please keep a eye open.
+<hr />
+= Enabling Twitter =
+[http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png]
+<br />
+Click the Setting button and you will see the image below
+<br />
+<br />
+[http://lh3.ggpht.com/_Q16FTRYgS6g/TDSnIZR5RLI/AAAAAAAAABc/m37gNE91RSA/settings.png]
+<br />
+Type in your Username and password and click save, it will login to Twitter and 
+tell you are good to go or not. Once you have saved this simple go back the the Konachan's Library and view the images if you like to twitter one simple click the newly placed twitter button under the image.
+<br />
+<br />
+To disable the twitter just click clear and then click save settings.
