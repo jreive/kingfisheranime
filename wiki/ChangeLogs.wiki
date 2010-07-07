@@ -1,4 +1,14 @@
 = Change Logs for Konachan's Library =
+==0.0.0.8==
+<br />
+*Bugs:*
+<br />
+*Fixed* Delete button it now enabled to delete a unwanted image in your library of Konachon images.
+<br />
+*Fixed* Rename button now lets you rename your image without damaging the file format and letting you rename it to what ever you like, this option is for the move image option later, but if you just want to rename a Image with a new tag you just add the new tag`_`(ID) replaying the (ID) with ID you see in the details for that image. Future plans also include a place holder so you can just add new tag name and the `_` and ID would be added for you. EG %ID%
+<br />
+<br />
+<hr />
 ==0.0.0.7==
 <br />
 *Added:*
