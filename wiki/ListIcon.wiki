@@ -1,9 +1,10 @@
 =ListIcon=
 
+http://img340.imageshack.us/img340/5395/listicon.jpg
 
-ListIcon Version 1.0.0.0
+A plugin for AutoPlay Media Studio 8.0, used for formatting 'Konachan's Library' and 'My Library'.
 
 
 =Details=
 
-More details please view RizlaUK's home page ([http://luadevils.com/ HERE])
+For more details and a download link, please view RizlaUK's home page at ([http://luadevils.com/ LuaDevils]).
