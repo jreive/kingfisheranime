@@ -1,17 +1,12 @@
-= Introduction =
+#labels Featured
+=Project role=
 
-Project owner, Shadiku (blackhawk.delta)
+Shadiku is an adminstrator of the Kingfisheranime project, He submits bug reports, code reviews and optimizations.
+<br /><br />
+Once upon a time he also contributed over 50TB of bandwidth for the Konachan site rip packs of 2009 and 2010.
 
+=External links=
 
-
-
-
-= Details =
-
-Shadiku is a Admin/Owner of the Kingfisheranime project or also known as
-the Konachan's Library.
-<br />
-<br />
-= Profiles/Sites =
-
-HomePage ([http://shadiku.com shadiku.com]).
+  * blog ([http://shadiku.com/ shadiku.com]).<br />
+  * subversion ([http://projects.shadiku.com/ projects.shadiku.com]).
+  * danbooru profile ([http://danbooru.donmai.us/user/show/154335 danbooru.donmai.us]).
