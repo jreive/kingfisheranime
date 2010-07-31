@@ -1,5 +1,24 @@
 #labels Featured
 = Change Logs for Konachan's Library =
+==1.0.0.0==
+===First Full Releace ===
+<br />
+*Changed:*
+<br />
+*Changed* enabled enter for search.
+<br />
+<br />
+*Released* (View homepage to download)
+<hr />
+==0.0.1.1==
+<br />
+*Changed:*
+<br />
+*Changed* Shadiku updated the request to use Wget as this
+was able to let use send the user agent details to let
+the request be faster and not lock up the program.
+
+<hr />
 ==0.0.1.0==
 <br />
 *Updated:*
