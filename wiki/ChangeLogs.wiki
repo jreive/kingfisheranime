@@ -2,7 +2,6 @@
 = Change Logs for Konachan's Library =
 ==1.0.0.0==
 ===First Full Releace ===
-<br />
 *Changed:*
 <br />
 *Changed* enabled enter for search.
