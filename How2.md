@@ -1,0 +1,64 @@
+# Introduction #
+
+This section will explain how to use Konachan's Library
+<br />
+<br />
+<br />
+# Running #
+
+Well the first thing to get running is downloading the program from the [download](http://code.google.com/p/kingfisheranime/downloads/list) page
+or from the SVN, the SVN will have update that some beta version wont as the SVN is updated with every build where the Beta is ever build we feel safe to release.
+<br />
+<br />
+Once you downloaded the program go to where you have downloaded it, then double click it
+you will be welcomed by Konachan's Library Opening window.
+
+
+&lt;hr /&gt;
+
+
+## Konachan's Library ##
+![http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png](http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png)
+<br />
+The first button
+<br />
+<br />
+<br />
+This button takes you to the part of the program where you can search via your tags for images just like you can on there website with one difference you don't have to include `_` in all your searchs so if you was looking for Lucky`_`Star Scan rate:s on the website it would be
+Lucky Stay, Scan and the safe option from the drop down on the program
+<br />
+<br />
+![http://lh6.ggpht.com/_Q16FTRYgS6g/TDHlyjn2p4I/AAAAAAAAAA0/2Iu3FglDSj4/snasearch.png](http://lh6.ggpht.com/_Q16FTRYgS6g/TDHlyjn2p4I/AAAAAAAAAA0/2Iu3FglDSj4/snasearch.png)
+<br />
+<br />
+
+
+&lt;hr /&gt;
+
+
+## My Library ##
+![http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png](http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png)
+<br />
+The second button
+<br />
+<br />
+<br />
+Since there as been a big change from [0.0.0.5](http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.5) to [0.0.0.7](http://code.google.com/p/kingfisheranime/wiki/ChangeLogs?ts=1278429550&updated=ChangeLogs#0.0.0.7) this section will be updated in the next version we hope please keep a eye open.
+
+
+&lt;hr /&gt;
+
+
+# Enabling Twitter #
+![http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png](http://lh3.ggpht.com/_Q16FTRYgS6g/TDHnPI05A0I/AAAAAAAAABE/BvS4sCxgu1I/Buttons.png)
+<br />
+Click the Setting button and you will see the image below
+<br />
+<br />
+![http://lh3.ggpht.com/_Q16FTRYgS6g/TDSnIZR5RLI/AAAAAAAAABc/m37gNE91RSA/settings.png](http://lh3.ggpht.com/_Q16FTRYgS6g/TDSnIZR5RLI/AAAAAAAAABc/m37gNE91RSA/settings.png)
+<br />
+Type in your Username and password and click save, it will login to Twitter and
+tell you are good to go or not. Once you have saved this simple go back the the Konachan's Library and view the images if you like to twitter one simple click the newly placed twitter button under the image.
+<br />
+<br />
+To disable the twitter just click clear and then click save settings.

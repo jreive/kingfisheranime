@@ -1,0 +1,180 @@
+# Change Logs for Konachan's Library #
+## 1.0.0.0 ##
+### First Full Releace ###
+**Changed:**
+<br />
+**Changed** enabled enter for search.
+<br />
+<br />
+**Released** (View homepage to download)
+
+
+&lt;hr /&gt;
+
+
+## 0.0.1.1 ##
+<br />
+**Changed:**
+<br />
+**Changed** Shadiku updated the request to use Wget as this
+was able to let use send the user agent details to let
+the request be faster and not lock up the program.
+
+
+
+&lt;hr /&gt;
+
+
+## 0.0.1.0 ##
+<br />
+**Updated:**
+<br />
+**Updated** Listbox to ListIcon on the main library, and changed the UI to fit the new changes.
+<br />
+([ListIcon's](http://forum.luadevils.com/index.php?topic=5.0) is by RizlaUK found at [luadevils.com](http://luadevils.com))
+<br />
+<br />
+**Bugs:**
+<br />
+**Fixed** Image downloading more then one for preview mode.
+<br />
+**Fixed** Bug Issues 3 ([HERE](http://code.google.com/p/kingfisheranime/issues/detail?id=3&can=1)) search function working again.
+
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.9 ##
+<br />
+**Bugs:**
+<br />
+Fixed Blank input on settings little confusing that
+they did this was becuase of the vrbs beens set in to
+place before there set making them blank.
+
+Fixed W by H was W x H on the Konachan\'s Library page
+to fit in with the rest of the program it as been changed
+to by.
+
+
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.8 ##
+<br />
+**Bugs:**
+<br />
+**Fixed** Delete button it now enabled to delete a unwanted image in your library of Konachon images.
+<br />
+**Fixed** Rename button now lets you rename your image without damaging the file format and letting you rename it to what ever you like, this option is for the move image option later, but if you just want to rename a Image with a new tag you just add the new tag`_`(ID) replaying the (ID) with ID you see in the details for that image. Future plans also include a place holder so you can just add new tag name and the `_` and ID would be added for you. EG %ID%
+<br />
+<br />
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.7 ##
+<br />
+**Added:**
+<br />
+**Added**Twitter Support to post the image you like to twitter with a short url so others can download the same image.
+
+<br />
+**Bug**
+<br />
+**Fixed** XML fault from one dev to the other incomparable version names fixed.
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.6 ##
+<br />
+**Change:**
+<br />
+**Changed** My Library Thumble Viewer was offering too much lag this problem might be looking in to in the future. So we have removed it and changed it to another system called ListIcon details can be found below more on this system.
+([ListIcon's](http://forum.luadevils.com/index.php?topic=5.0) is by RizlaUK found at [luadevils.com](http://luadevils.com))
+<br />
+**Changed** all StatusDlg's to status progress at the bottom of the page or the download dialog.
+<br />
+**Changed** the screen size from 600 by 400 to 700 by 500 to offer that little better space but not strealing all of the screen.
+
+**Added:**
+<br />
+**Added** file details on My Library.
+<br />
+**Added** Kingfisheranime dialog/links.
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.5 ##
+<br />
+**Changed:**
+<br />
+**Changed** Download Box as been changed to enable you to select a topic name if you seached with more then one tag. Changed the way you search you can now search too topic/tags like so Topic Name One, Topic Name Two just using the , (, with space) to split the topics/tags and you no longer have to add _in to your tag search the program dose this for you.
+**Changed** The preview status dialog box's seems to slow down the action of getting the preview files so it was changed to show it in the status bar at the bottem of the Library page._
+
+**Added:**
+<br />
+**Added** ModalBox fucntion added, programed by Nathaniel Blackburn
+this fucntion is a old one and is really bugy with the
+program but we will have this fix in a later releace.
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.4 ##
+<br />
+**Added:**
+<br />
+**Added** Create My Konachan folder for the program
+to be able to work without the end user making it.
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.3 ##
+<br />
+**Bugs:**
+<br />
+**Fixed** Dialog not showing anytihng but update.
+<br />
+**Fixed** Double Download on via preview window.
+<br />
+<br />
+**[r2](https://code.google.com/p/kingfisheranime/source/detail?r=2)**
+<br />
+**Change:**
+<br />
+**Changed** Change Log Updated.
+<br />
+**Changed** Tags as name,changed to search tags Konachan's Library Page Updated.
+
+
+&lt;hr /&gt;
+
+
+## 0.0.0.2 ##
+<br />
+**Bugs:**
+**Fixed** Buttons text.
+<br />
+**Fixed** Settings and About box titles.
+<br />
+**Fixed** Downloaded text.
+<br />
+**Fixed** Settings for questionable.
+<br />
+<br />
+<br />
+## 0.0.0.1 ##
+<br />
+Main first build.

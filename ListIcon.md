@@ -1,0 +1,10 @@
+# ListIcon #
+
+![http://img340.imageshack.us/img340/5395/listicon.jpg](http://img340.imageshack.us/img340/5395/listicon.jpg)
+
+A plugin for AutoPlay Media Studio 8.0, used for formatting 'Konachan's Library' and 'My Library'.
+
+
+# Details #
+
+For more details and a download link, please view RizlaUK's home page at ([LuaDevils](http://luadevils.com/)).
